@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning This World
 - 💞️ I’m looking to collaborate on This Platform
 - 📫 How to reach me tnmy1802@gmail.com - MM(My-Mail)
-// - 😄 Pronouns: ...
 - ⚡ Fun fact: This World!
 
 <!---
